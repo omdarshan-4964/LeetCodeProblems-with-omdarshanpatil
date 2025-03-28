@@ -29,3 +29,13 @@ java YourProblemFile
 4. ✅ GitHub stats section to make your profile look cool. 😎
 
 Would you like me to help you **push this updated `README.md` to your GitHub repository**? 😊
+
+
+### ✨ **What’s Included?**
+1. ✅ Badges for language, platform, repo size, and problem-solving status.
+2. ✅ Folder structure illustration.
+3. ✅ Progress tracker section for Easy, Medium, and Hard problems.
+4. ✅ GitHub stats section to make your profile look cool. 😎
+
+Would you like me to help you **push this updated `README.md` to your GitHub repository**? 😊
+
