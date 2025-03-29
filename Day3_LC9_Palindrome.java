@@ -28,3 +28,5 @@ public class Day3_LC9_Palindrome {
         sc.close();
     }
 }
+
+// rzz9zix6fu9mrbv
